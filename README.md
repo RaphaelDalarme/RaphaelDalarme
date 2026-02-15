@@ -6,15 +6,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raphaeldalarme&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldalarme&layout=compact&theme=dark)
-
-
----
-
 ### 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
