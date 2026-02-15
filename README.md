@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelDalarme&show_icons=true&bg_color=000000)
+![Raphael GitHub stats]![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?RaphaelDalarme&show_icons=true&theme=dark)
 
 ---
 
